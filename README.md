@@ -1,2 +1,4 @@
 # test
-temperature forecast for the city in search
+temperature forecast for your city 
+
+for start type 'cd client && yarn start'
